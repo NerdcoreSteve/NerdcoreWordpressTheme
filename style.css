@@ -4,3 +4,29 @@ Author: Steve Smith
 Author URI: http://professionalsteve.com/
 Version: 0.1
 */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: #333;
+    background-color: #00cc66;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: #06556B;
+}
+
+p {
+    line-height: 1.65em;
+}
+
+div.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
